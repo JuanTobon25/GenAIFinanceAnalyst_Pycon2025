@@ -1,22 +1,58 @@
 [
     {
-        "question": "\u00bfQu\u00e9 cubre el plan de beneficios Northwind Health Plus?",
-        "answer": "El plan Northwind Health Plus cubre atenci\u00f3n m\u00e9dica, dental, de la vista, medicamentos recetados y servicios de salud mental."
+        "question": "¿Qué es el Fear of Missing Out (FOMO) en el contexto de la inversión?",
+        "answer": "Es la ansiedad de perder una oportunidad rentable o emocionante, que lleva a los inversores a tomar decisiones impulsivas basadas en tendencias sociales en lugar de análisis fundamental."
     },
     {
-        "question": "\u00bfCu\u00e1l es el procedimiento para tomar una licencia por maternidad?",
-        "answer": "Debes notificar a Recursos Humanos al menos 30 d\u00edas antes de la fecha esperada y presentar la documentaci\u00f3n m\u00e9dica correspondiente."
+        "question": "¿Qué estrategia ayuda a reducir el impacto del FOMO?",
+        "answer": "Crear y seguir una estrategia de inversión disciplinada con objetivos claros, reglas de entrada y salida, y gestión de riesgos para evitar dejarse llevar por el entusiasmo del mercado."
     },
     {
-        "question": "\u00bfQu\u00e9 incluye el programa PerksPlus?",
-        "answer": "PerksPlus incluye descuentos en gimnasios, membres\u00edas de bienestar, vales de alimentos y soporte financiero."
+        "question": "¿Qué es el sesgo de anclaje en las decisiones de inversión?",
+        "answer": "Es la tendencia a depender excesivamente de una información inicial o 'ancla', como el precio de compra de una acción, al tomar decisiones posteriores sobre ella."
     },
     {
-        "question": "\u00bfQu\u00e9 responsabilidades tiene un analista de datos seg\u00fan el role library?",
-        "answer": "Seg\u00fan el Role Library, un analista de datos debe recolectar, limpiar y analizar datos para generar reportes estrat\u00e9gicos para el negocio."
+        "question": "¿Cómo puede un inversionista contrarrestar el sesgo de anclaje?",
+        "answer": "Realizando una investigación independiente y exhaustiva, evaluando factores objetivos que influyen en el precio en lugar de basarse en un punto de referencia inicial."
     },
     {
-        "question": "\u00bfCu\u00e1les son los beneficios est\u00e1ndar de Northwind?",
-        "answer": "Los beneficios est\u00e1ndar incluyen seguro m\u00e9dico b\u00e1sico, vacaciones pagadas, y plan de retiro 401(k)."
+        "question": "¿Qué es el sesgo de confirmación en el ámbito financiero?",
+        "answer": "Es la tendencia a buscar e interpretar información que confirme las creencias previas, ignorando o restando importancia a datos que las contradicen."
+    },
+    {
+        "question": "¿Qué práctica ayuda a mitigar el sesgo de confirmación?",
+        "answer": "Buscar deliberadamente puntos de vista opuestos o pedir a un colega que cuestione y critique tu tesis de inversión para detectar debilidades ocultas."
+    },
+    {
+        "question": "¿Qué se entiende por mentalidad de rebaño en los mercados financieros?",
+        "answer": "Es el comportamiento de seguir las acciones de la mayoría bajo la creencia de que el grupo debe tener razón, lo que puede generar burbujas especulativas y volatilidad."
+    },
+    {
+        "question": "¿Qué medida puede ayudar a un inversionista a evitar la mentalidad de rebaño?",
+        "answer": "Diversificar el portafolio entre distintos activos, sectores y regiones, reduciendo el impacto de los movimientos impulsados por el comportamiento colectivo."
+    },
+    {
+        "question": "¿Qué describe el sesgo de aversión a la pérdida?",
+        "answer": "Es la tendencia a temer más las pérdidas que a disfrutar ganancias equivalentes, lo que puede provocar decisiones financieras irracionales."
+    },
+    {
+        "question": "¿Cómo puede un inversionista gestionar la aversión a la pérdida?",
+        "answer": "Determinando su nivel máximo de pérdida aceptable antes de invertir y estructurando un portafolio que limite el riesgo de caídas superiores a ese umbral."
+    },
+    {
+        "question": "¿Qué es el optimismo sesgado o 'optimism bias'?",
+        "answer": "Es la creencia de que uno tiene menos probabilidades de experimentar eventos negativos y más de obtener resultados positivos, lo que lleva a expectativas financieras poco realistas."
+    },
+    {
+        "question": "¿Qué técnica puede ayudar a controlar el optimismo sesgado?",
+        "answer": "Usar 'reference class forecasting', comparando una inversión con el desempeño histórico de productos similares para tener expectativas más realistas."
+    },
+    {
+        "question": "¿Qué caracteriza al sesgo de sobreconfianza en las inversiones?",
+        "answer": "Es la tendencia a sobreestimar el propio conocimiento y habilidad para predecir el mercado, lo que conduce a operar en exceso y asumir riesgos indebidos."
+    },
+    {
+        "question": "¿Qué práctica ayuda a controlar la sobreconfianza?",
+        "answer": "Mantener un diario de inversión donde se registren decisiones y resultados para evaluar objetivamente el desempeño y reconocer patrones de exceso de confianza."
     }
 ]
