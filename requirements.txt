@@ -1,7 +1,7 @@
 openai>=1.0.0
 langchain>=0.2.0
 streamlit==1.31.1
-faiss-cpu==1.11.0
+faiss-cpu>=1.9.0
 mlflow>=3.1
 python-dotenv==1.0.1
 fpdf==1.7.2
